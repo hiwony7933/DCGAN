@@ -1,1 +1,1 @@
-# DCGAN Project
+# DCGAN Study
